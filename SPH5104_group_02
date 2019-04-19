@@ -19,9 +19,9 @@ Rowena Yap Kah Sin
 # con <- dbConnect(drv,
 #                  dbname = "mimic"
 #                  ,
-#                  host = "172.16.201.249"
+#                  host = ""
 #                  ,
-#                  user = "sph5104"
+#                  user = ""
 #                  ,
 #                  password = "")
 # 
